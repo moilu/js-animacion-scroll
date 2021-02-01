@@ -2,7 +2,7 @@ const boxes = document.querySelectorAll('.box');
 
 window.addEventListener('scroll', checkBoxes);
 
-// checkBoxes();
+checkBoxes();
 
 function checkBoxes() {
 
